@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  main:
+    web-application-type: none
+app:
+  name: Task Manager
+  max-tasks: 3
+  default-priority: MEDIUM
